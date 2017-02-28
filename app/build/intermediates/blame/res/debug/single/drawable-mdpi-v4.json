@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\FragmentArgumentsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\FragmentArgumentsDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Fragment\\FragmentPassParameter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Fragment\\FragmentPassParameter\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\FragmentPassParameter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\FragmentPassParameter\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
